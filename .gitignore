@@ -56,3 +56,6 @@ RedditLiveStats/obj/project.nuget.cache
 RedditLiveStats/obj/RedditLiveStats.csproj.nuget.dgspec.json
 RedditLiveStats/obj/RedditLiveStats.csproj.nuget.g.props
 RedditLiveStats/obj/RedditLiveStats.csproj.nuget.g.targets
+RedditLiveStats/obj/Debug/net7.0/RedditLiveStats.csproj.AssemblyReference.cache
+RedditLiveStats.Tests/obj/Debug/net7.0/RedditLiveStats.Tests.csproj.AssemblyReference.cache
+RedditLiveStats.Tests/bin/Debug/net7.0/nunit_random_seed.tmp
