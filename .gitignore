@@ -61,3 +61,4 @@ RedditLiveStats.Tests/obj/Debug/net7.0/RedditLiveStats.Tests.csproj.AssemblyRefe
 RedditLiveStats.Tests/bin/Debug/net7.0/nunit_random_seed.tmp
 *.tmp
 *.cache
+/RedditLiveStatsUI/node_modules
