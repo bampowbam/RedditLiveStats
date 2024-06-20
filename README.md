@@ -1,5 +1,7 @@
 
-`# RedditLiveStats
+# RedditLiveStats
+<img width="1024" alt="image" src="https://github.com/bampowbam/RedditLiveStats/assets/37565825/b5c39ade-fae7-4852-893d-11bc35a1e99c">
+
 
 ## Project Structure
 
